@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Edith
+Welcome to my GitHub profile!
 
-<!--
-**edithgiragossian/edithgiragossian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+- 🎓 Passionate about technology and programming
+- 🌱 Always learning new skills
+- 💻 Interested in AI and Automation
+- 🚀 Building projects and improving my coding skills
+  
+  
+🛠️ Languages and Tools: 
 
-Here are some ideas to get you started:
+![Python](https://skillicons.dev/icons?i=python)     ![VS Code](https://skillicons.dev/icons?i=vscode)   <img src="https://cdn.simpleicons.org/claude" width="48" alt="Claude AI"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+- LinkedIn : linkedin.com/in/edith-giragossian
+- Email : edithgiragossian@gmail.com
+
+ 
